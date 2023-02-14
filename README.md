@@ -6,13 +6,12 @@ Installation
 To use this program, you will need to have Python 3 installed on your system. You can download and install Python from the official website: https://www.python.org/downloads/
 
 The program also has the following dependencies:
-pandas
 geopy
 scipy
 Levenshtein
 
 You can install these dependencies using pip by running the following command in your terminal:
-pip install pandas geopy scipy levenshtein
+pip install geopy scipy levenshtein
 
 Usage
 To use the program, follow these steps:
